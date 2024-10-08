@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nitin Gupta</h1>
 <h3 align="center">A passionate and results-driven professional in the data-driven field. I thrive on transforming data into actionable insights.</h3>
 
-<imag align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-gupta24&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-gupta24" /> </p>
 
-- 📫 You can reach out to me via Email at **nitingupta2403@gmail.com**
+<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- ⚡ Fun fact **The most life-changing book for me is Bhagavad Gita😊**
+- 👀 **I use data to create solutions for businesses and organizations**
+- 🌱 **On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data. Let's turn data into knowledge together !I’m currently learning**
+
+- 👯 **I’m looking to collaborate on PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI, or TABLEAU.**
+
+- 🤝 **In my free time, I help other data analysts make sense of their data.**
+
+- 📫 **You can reach out to me via Email at** : **nitingupta2403@gmail.com**
+
+- ⚡ **Fun fact** : **The most life-changing book for me is Bhagavad Gita😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-gupta24&show_icons=true&locale=en" alt="nitin-gupta24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-gupta24&" alt="nitin-gupta24" /></p>
+
