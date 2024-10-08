@@ -1,3 +1,4 @@
+![logo](https://github.com/Nitin-Gupta24/Nitin-Gupta24/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nitin Gupta</h1>
 <h3 align="center">A passionate and results-driven professional in the data-driven field. I thrive on transforming data into actionable insights.</h3>
 
