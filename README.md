@@ -7,7 +7,7 @@
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👀 **I use data to create solutions for businesses and organizations**
-- 🌱 **On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data. Let's turn data into knowledge together !
+- 🌱 **On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data. Let's turn data into knowledge together !**
 - 👯 **I’m looking to collaborate on PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI, or TABLEAU.**
 
 - 🤝 **In my free time, I help other data analysts make sense of their data.**
